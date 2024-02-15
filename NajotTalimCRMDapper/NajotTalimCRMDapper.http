@@ -1,0 +1,6 @@
+@NajotTalimCRMDapper_HostAddress = http://localhost:5218
+
+GET {{NajotTalimCRMDapper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
